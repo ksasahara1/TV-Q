@@ -5,7 +5,7 @@ LDLIBS		:=
 
 VPATH		:= ./src:./obj
 
-bin/lb: obj/loadBinary.o
+bin/playBinary: obj/playBinary.o
 	@mkdir -p $(dir $@)
 	$(CXX) -o $@ $(LDFLAGS) $^ $(LDLIBS)
 obj/%.o:%.cpp
