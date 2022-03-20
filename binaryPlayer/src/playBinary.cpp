@@ -69,7 +69,7 @@ int main(const int argc, const char** argv)
 	end = std::chrono::system_clock::now();
 	auto time = end - start;
 	auto msec = std::chrono::duration_cast<std::chrono::milliseconds>(time).count();
-	while(msec < 33.3) {
+	while(msec < mspf) {
 		end = std::chrono::system_clock::now();
 		time = end - start;
 		msec = std::chrono::duration_cast<std::chrono::milliseconds>(time).count();
