@@ -1,4 +1,5 @@
-CXX	:=	arm-linux-gnueabi-g++
+PREFIX		:=	arm-linux-gnueabi-
+CXX		:=	$(PREFIX)g++
 CXX_FLAGS	:=	-O2 -c
 LDFLAGS		:=
 LDLIBS		:=
@@ -11,3 +12,6 @@ bin/playBinary: obj/playBinary.o
 obj/%.o:%.cpp
 	@mkdir -p $(dir $@)
 	$(CXX) -o $@ $(CXX_FLAGS) $< 
+.PHONY: clean
+clean:
+	@rm -rfv bin/ obj/ $(shell find . -name *~)
