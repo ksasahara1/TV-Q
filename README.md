@@ -1,4 +1,5 @@
 # README for TV-Q
+![TV-Q_LOGO](https://user-images.githubusercontent.com/40233156/159738029-a7e75206-c3d2-463e-86d9-0febdcae5bb7.jpg)
 
 # DESCRIPTION
 
