@@ -1,4 +1,12 @@
+ifeq ($(shell uname -s),Linux)
+ifeq ($(shell uname -m),armv6l)
+PREFIX := 
+else 
 PREFIX		:=	arm-linux-gnueabi-
+endif
+else
+PREFIX		:=	arm-linux-gnueabi-
+endif
 CXX		:=	$(PREFIX)g++
 CXX_FLAGS	:=	-O2 -c
 LDFLAGS		:=
