@@ -2,8 +2,10 @@
 
 # DESCRIPTION
 
-This product plays video on a 3.5 inch display. The videos are loaded from an external micro SD card. Storing your original video on micro SD and insert it to this product, you can play the video on this product
-This is a product created by [Kaoru Sasahara](https://github.com/ksasahara1) and [Masahiko Tsuyama](https://github.com/MTsuyama-git) at Mar 2022.
+This product is called TV-Q. Plays video on a 3.5 inch display. The videos are loaded from an external micro SD card. Storing your original video on micro SD and inserting it to TV-Q, you can play any videos on TV-Q.
+
+Created by [Kaoru Sasahara](https://github.com/ksasahara1) and [Masahiko Tsuyama](https://github.com/MTsuyama-git) at Mar 2022.
+
 
 # Requirements
 - [Raspberry Pi OS Lite 11.2](https://www.raspberrypi.com/software/)
