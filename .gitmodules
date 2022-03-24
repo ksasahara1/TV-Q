@@ -1,3 +1,6 @@
 [submodule "video_encoder"]
 	path = video_encoder
 	url = git@github.com:MTsuyama-git/video_encoder
+[submodule "binary_player"]
+	path = binary_player
+	url = git@github.com:MTsuyama-git/binary_player.git
