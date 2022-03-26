@@ -62,7 +62,12 @@ Coming Soon…
 
 
 # THE CASE
-See the - [stl](https://github.com/ksasahara1/TV-Q/tree/main/stl)
+You can see and download from - [stl-3D](https://github.com/ksasahara1/TV-Q/tree/main/stl)
+
+![TV-Q_case](https://user-images.githubusercontent.com/40233156/160241832-3037f1a2-2741-4f44-9539-cf1de9624f00.jpg)
+
+![TV-Q_long_case](https://user-images.githubusercontent.com/40233156/160241838-22b8f36f-f622-4ef9-b8f6-9b55a5384c5c.jpg)
+
 
 ## Also you need to use…
 - Grub Screws x4 (D:3mm L:10mm) 
