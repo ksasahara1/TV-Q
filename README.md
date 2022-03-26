@@ -22,6 +22,7 @@ Created by [Kaoru Sasahara](https://github.com/ksasahara1) and [Masahiko Tsuyama
 
 # REQUIPMENTS
 - Raspberry Pi zero (unmarked/W/WH)
+
 - Elecrow 3.5 Inch 480x320 TFT Display with Touch Screen for Raspberry Pi[wiki](https://www.elecrow.com/wiki/index.php?title=3.5_Inch_480x320_TFT_Display_with_Touch_Screen_for_Raspberry_Pi)
   - Availabe at:
     - [AliExpress](https://a.aliexpress.com/_mKufbde)
