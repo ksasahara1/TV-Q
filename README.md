@@ -44,6 +44,7 @@ You have 2 options to show the video:
 ## Video setting (our recommendation)
 type: H264(.mp4) or QuickTime(.mov)
 size: 240px:160px
+
 *The file system of the video SDcard must be FAT32 or exFAT.
 
 # HOW TO ENCODE
@@ -57,7 +58,7 @@ Coming Soon…
 # THE CASE
 See the - [stl](https://github.com/ksasahara1/TV-Q/tree/main/stl)
 
-Also you need to use…
+## Also you need to use…
 - Grub Screws x4 (D:3mm L:10mm) 
 - screws x12 (D:2mm D:5mm)
 - Clear Acrylic Plate x1 (82mm x 56.5mm)
