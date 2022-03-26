@@ -1,6 +1,9 @@
 # README for TV-Q
 ![TV-Q_LOGO](https://user-images.githubusercontent.com/40233156/159738029-a7e75206-c3d2-463e-86d9-0febdcae5bb7.jpg)
 
+![TV-Q紹介映像01](https://user-images.githubusercontent.com/40233156/160235023-de35f942-8045-4d26-8de4-719c874abf36.gif)
+
+
 # DESCRIPTION
 
 This product is called TV-Q. Plays video on a 3.5 inch display. The videos are loaded from an external micro SD card. Storing your original video on micro SD and inserting it to TV-Q, you can play any videos on TV-Q.
