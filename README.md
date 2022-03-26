@@ -27,7 +27,7 @@ Created by [Kaoru Sasahara](https://github.com/ksasahara1) and [Masahiko Tsuyama
   - For Video Storage
 - microSD card reader
   Micro USB Type B to micro SD
-
+  *You need to remove the plastic case
 - microSD slot extender
 
 - microUSB connector
@@ -41,7 +41,7 @@ You have 2 options to show the video:
 - Use encoded video.
 - Use resized video
  
-- Video setting (our recommendation)
+## Video setting (our recommendation)
 type: H264(.mp4) or QuickTime(.mov)
 size: 240px:160px
 *The file system of the video SDcard must be FAT32 or exFAT.
@@ -57,8 +57,7 @@ Coming Soon…
 # THE CASE
 See the - [stl](https://github.com/ksasahara1/TV-Q/tree/main/stl)
 
-
-# Also you need to use…
+Also you need to use…
 - Grub Screws x4 (D:3mm L:10mm) 
 - screws x12 (D:2mm D:5mm)
 - Clear Acrylic Plate x1 (82mm x 56.5mm)
