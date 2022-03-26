@@ -62,7 +62,7 @@ Coming Soon…
 
 
 # THE CASE
-You can see and download from - [stl-3D](https://github.com/ksasahara1/TV-Q/tree/main/stl)
+You can see and download 2 types of cases from - [stl-3D](https://github.com/ksasahara1/TV-Q/tree/main/stl)
 
 ![TV-Q_case](https://user-images.githubusercontent.com/40233156/160241832-3037f1a2-2741-4f44-9539-cf1de9624f00.jpg)
 
