@@ -55,8 +55,10 @@ size: 240px:160px
 
 # HOW TO ENCODE
 ## CUI Program
+```
 ./bin/video_decoder /path/to/video destination
 mv destination /path/to/mnt
+```
 ## GUI Program
 Coming Soon…
 
