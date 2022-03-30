@@ -21,6 +21,9 @@ Created by [Kaoru Sasahara](https://github.com/ksasahara1) and [Masahiko Tsuyama
 
 
 # REQUIPMENTS
+![TV-Q_desighsheet](https://user-images.githubusercontent.com/40233156/160862213-be896303-5399-4dbc-9db8-58d77ed407a0.jpg)
+
+
 - Raspberry Pi zero (unmarked/W/WH)
 
 - Elecrow 3.5 Inch 480x320 TFT Display with Touch Screen for Raspberry Pi[wiki](https://www.elecrow.com/wiki/index.php?title=3.5_Inch_480x320_TFT_Display_with_Touch_Screen_for_Raspberry_Pi)
@@ -45,10 +48,10 @@ Please refer to ...
 # READY TO PLAY
 You have 2 options to show the video:
 - Use encoded video.
-- Use resized video
+- Use resized video.
  
 ## Video setting (our recommendation)
-type: H264(.mp4) or QuickTime(.mov)
+videotype: H264(.mp4) or QuickTime(.mov)
 size: 240px:160px
 
 *The file system of the video SDcard must be FAT32 or exFAT.
