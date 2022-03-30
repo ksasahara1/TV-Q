@@ -86,7 +86,7 @@ You can see and download 2 types of cases from - [stl-3D](https://github.com/ksa
 # LICENSE
 Coming soon.
 
-
+ - [STLdata-LICENSE](https://github.com/ksasahara1/TV-Q/blob/main/stl_3Dprint/README_stl-3D.md)
 
 # COPYRIGHT
 Copyright (c) 2022- The TV-Q Project
