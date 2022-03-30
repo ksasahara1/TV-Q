@@ -13,14 +13,14 @@ This product is called TV-Q. Plays video on a 3.5 inch display. The videos are l
 Created by [Kaoru Sasahara](https://github.com/ksasahara1) and [Masahiko Tsuyama](https://github.com/MTsuyama-git) at Mar 2022.
 
 
-# Requirements
+# REQUIPMENTS
 - [Raspberry Pi OS Lite 11.2](https://www.raspberrypi.com/software/)
   - [US](https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2022-01-28/)
   - [JP](http://ftp.jaist.ac.jp/pub/raspberrypi/raspios_lite_armhf/images/raspios_lite_armhf-2022-01-28/)
 - [FFmpeg 5.0](https://ffmpeg.org)
 
 
-# REQUIPMENTS
+# EQUIPMENTS
 ![TV-Q_desighsheet](https://user-images.githubusercontent.com/40233156/160862213-be896303-5399-4dbc-9db8-58d77ed407a0.jpg)
 
 
