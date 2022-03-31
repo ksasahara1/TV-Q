@@ -64,12 +64,7 @@ cd ./video_encoder
 ./bin/video2tjpeg /path/to/video destination
 mv destination /path/to/mnt
 ```
-for traw
-```
-cd ./video_encoder
-./bin/video2traw /path/to/video destination
-mv destination /path/to/mnt
-```
+
 ## GUI Program
 Coming Soon…
 
