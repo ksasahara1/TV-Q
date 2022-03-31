@@ -1,8 +1,10 @@
-# README for TV-Q
+# README for TV-Q!
 
-![TV-Q_PR01](https://user-images.githubusercontent.com/40233156/160235510-0ef24013-5fb3-45c9-98cb-503015cfcf28.gif)
+![TV-Qsample02_480x320](https://user-images.githubusercontent.com/40233156/161092277-96994f63-f47d-4ca8-9dcd-85c3fc9a1393.gif)
 
-![TV-Q紹介映像01](https://user-images.githubusercontent.com/40233156/160235023-de35f942-8045-4d26-8de4-719c874abf36.gif)
+
+![TVQ紹介映像_480x320](https://user-images.githubusercontent.com/40233156/161091055-9ce4f046-afb8-47cf-8c0a-d351f544a28b.gif)
+
 
 
 # DESCRIPTION
