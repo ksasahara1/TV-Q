@@ -50,15 +50,14 @@ You have 2 options to show the video:
 - Use resized video.
  
 ## Video setting (our recommendation)
-videotype: H264(.mp4) or QuickTime(.mov)
-size: 240px:160px
-flame rate: 30fps
+- videotype: H264(.mp4) or QuickTime(.mov)
+- size: 240px:160px
+- flame rate: 30fps
 
 *The file system of the video SDcard must be FAT32 or exFAT.
 
 # HOW TO ENCODE
 ## CUI Program
-for tjpeg
 ```
 cd ./video_encoder
 ./bin/video2tjpeg /path/to/video destination
