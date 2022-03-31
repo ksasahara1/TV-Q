@@ -59,8 +59,16 @@ flame rate: 30fps
 
 # HOW TO ENCODE
 ## CUI Program
+for tjpeg
 ```
-./bin/video_decoder /path/to/video destination
+cd ./video_encoder
+./bin/video2tjpeg /path/to/video destination
+mv destination /path/to/mnt
+```
+for traw
+```
+cd ./video_encoder
+./bin/video2traw /path/to/video destination
 mv destination /path/to/mnt
 ```
 ## GUI Program
