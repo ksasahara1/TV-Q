@@ -1,5 +1,6 @@
 # README for TV-Q
-![TV-Q_LOGO](https://user-images.githubusercontent.com/40233156/159738029-a7e75206-c3d2-463e-86d9-0febdcae5bb7.jpg)
+
+![TV-Q_logo](https://user-images.githubusercontent.com/40233156/161058924-9f7f6598-82f8-4f49-91f3-dd20157a39f4.jpg)
 
 ![TV-Q紹介映像01](https://user-images.githubusercontent.com/40233156/160235023-de35f942-8045-4d26-8de4-719c874abf36.gif)
 
@@ -53,6 +54,7 @@ You have 2 options to show the video:
 ## Video setting (our recommendation)
 videotype: H264(.mp4) or QuickTime(.mov)
 size: 240px:160px
+flame rate: 30fps
 
 *The file system of the video SDcard must be FAT32 or exFAT.
 
