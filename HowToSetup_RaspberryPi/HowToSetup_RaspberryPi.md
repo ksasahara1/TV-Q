@@ -2,6 +2,7 @@
 
 Installing the OS
 Choose "Raspberry Pi OS Lite(32 bit)" from Raspberry Pi Imager.
+<img width="674" alt="ラズパイ画面" src="https://user-images.githubusercontent.com/40233156/166419197-592b60b2-fadd-4f93-a76a-1d6b09f88aa5.png">
 
 
 
@@ -26,12 +27,13 @@ $ ./LCD35-show
 $ vi /etc/fstab
 
 add this description.
+```
 
 /dev/sda1	/mnt	exfat defaults,ro,nofail	0	0
 
 /dev/sda1	/mnt_vfat	vfat defaults,ro,nofail	0	0
 
-
+```
 then Raspberry Pi can read the SD card.
 
 # CREATE RUN SCRIPT
