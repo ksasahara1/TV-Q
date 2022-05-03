@@ -8,7 +8,7 @@ Choose "Raspberry Pi OS Lite(32 bit)" from Raspberry Pi Imager.
 
 Firstly, setup for Wi-Fi on raspi-config.
 
-# SHOW LCD SCREEN 
+# ANABLE LCD SCREEN 
 <https://raspida.com/waveshare-install-lcd35>
 
 $ sudo apt-get install git libjpeg9 libjpeg9-dev
