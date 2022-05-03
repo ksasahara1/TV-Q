@@ -23,7 +23,7 @@ $ ./LCD35-show
 
 
 
-# microSD AUTOMATION MOUNT by FSTAB
+# AUTOMATION MOUNT
 $ vi /etc/fstab
 
 add this description.
