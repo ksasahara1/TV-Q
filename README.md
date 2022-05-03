@@ -44,7 +44,7 @@ Created by [Kaoru Sasahara](https://github.com/ksasahara1) and [Masahiko Tsuyama
   [shop](https://akizukidenshi.com/catalog/g/gK-10972/)
 
 # HOW TO SET UP Raspberry Pi
-Please refer to ...
+Check to https://github.com/ksasahara1/TV-Q/blob/main/HowToSetup_RaspberryPi/HowToSetup_RaspberryPi.md
 
 # READY TO PLAY
 You have 2 options to show the video:
