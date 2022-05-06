@@ -8,8 +8,9 @@ Choose "Raspberry Pi OS Lite(32 bit)" from Raspberry Pi Imager.
 
 Firstly, setup for Wi-Fi on raspi-config.
 
-# ANABLE LCD SCREEN 
-<https://raspida.com/waveshare-install-lcd35>
+# ENABLE LCD SCREEN 
+Reference: <https://raspida.com/waveshare-install-lcd35>  
+This step installs the driver of LCD
 
 $ sudo apt-get install git libjpeg9 libjpeg9-dev
 
@@ -23,7 +24,7 @@ $ ./LCD35-show
 
 
 
-# AUTOMATION MOUNT
+# SETTING for AUTOMATION MOUNT
 $ vi /etc/fstab
 
 add this description.
@@ -37,7 +38,7 @@ add this description.
 then Raspberry Pi can read the SD card.
 
 # CREATE RUN SCRIPT
-$ vi TV-Q.sh
+$ vi /home/pi/TV-Q.sh
 ```
 #!/bin/bash
 
@@ -60,6 +61,7 @@ done
 ```
 
 # CRONTAB
+When Raspberry Pi boot, video is automatically started.  
 $ crontab -e
 ```
 @reboot /bin/bash -l /home/pi/TV-Q.sh 
@@ -71,7 +73,7 @@ $ sudo reboot
 $chmod 755 TV-Q.sh
 
 
-# READ-ONLY SYSTEM by OVERLAYS
+# READ-ONLY SYSTEM with OVERLAYFS
 <https://qiita.com/ma2shita/items/45818f0872472ecacac1>
 
 $ sudo raspi-config nonint enable_overlayfs
